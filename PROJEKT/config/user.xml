@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" ?>
+<userlist>
+    <user type="user">
+        <username>
+            daniel
+        </username>
+        <password>
+            daniel
+        </password>
+        <firstname>
+            Daniel
+        </firstname>
+        <lastname>
+            Daniel
+        </lastname>
+    </user>
+    <user type="user">
+        <username>
+            bahar
+        </username>
+        <password>
+            bahar
+        </password>
+        <firstname>
+            Bahar
+        </firstname>
+        <lastname>
+            Bahar
+        </lastname>
+    </user>
+    <user type="admin">
+        <username>
+            admin
+        </username>
+        <password>
+            admin
+        </password>
+        <firstname>
+            Sir
+        </firstname>
+        <lastname>
+            Administrator
+        </lastname>
+    </user>
+</userlist>

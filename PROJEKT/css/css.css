@@ -1,0 +1,165 @@
+
+
+footer{
+	padding: 150px;
+	position: relative;
+}
+
+
+footer a{
+	color: blue;
+}
+
+
+nav li{
+	font-size: 1em;
+}
+
+
+
+
+#team{
+    background-color: rosybrown;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+
+
+
+#team p{
+    padding: 30px;
+}
+
+
+#news .überschrift{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+}
+
+
+
+
+.table{
+	margin-bottom: 100px;
+}
+
+
+
+
+.überschrift{
+    text-align: center;
+    letter-spacing: 20px;
+    font-size: bold;
+    padding-bottom: 20px;
+    float: none;
+
+}
+
+
+
+
+
+.trennpunkte{
+    border-top: 50px dotted white;
+    padding-bottom: 30px;
+}
+
+
+
+
+.rounded-circle{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+.hintergrundfarbe{
+    background-color: gray;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+
+
+.text{
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+
+#kontakt{
+    background-color: coral;
+    padding: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 20px;
+    opacity: 0.9;
+
+}
+
+
+
+
+#anrede{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+
+
+
+#news img{
+	height:100px;
+	width:150px;
+}
+
+
+
+
+#shop img{
+	width:40%;
+	height:35%;
+}
+
+
+
+
+#kontakt .class2{
+	width:20%;
+}
+
+
+
+
+#news input{
+	width:100%; 
+	height:70px;
+}
+
+
+
+
+#warenkorb{
+
+}
+
+
+
+
+
+

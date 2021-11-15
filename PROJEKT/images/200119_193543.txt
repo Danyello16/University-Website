@@ -1,0 +1,14 @@
+Gut ausgebildete Technik-Absolventinnen und Absolventen sind gefragt wie nie, die Unternehmen benötigen im globalen Wettbewerb dringend kompetenten Nachwuchs. Deshalb honorieren wir mit dem Kapsch Award schon seit über 10 Jahren die hervorragenden Leistungen der AbsolventInnen, und deshalb haben wir heuer selbstverständlich auch die Crowdfunding-Kampagne der FH Technikum Wien unterstützt“, so Dr. Kari Kapsch, COO der Kapsch Group.
+
+Der Kapsch Award steht neben der Auszeichnung exzellenter Leistungen für die große Bedeutung gut ausgebildeter TechnikerInnen in Österreich.
+
+„Unsere AbsolventInnen begeistern uns jedes Jahr mit Innovationsgeist und herausragenden Leistungen. Die Vielfalt der prämierten Masterthesen zeigt, dass wir durchgängig auf hohe Qualität in der wissenschaftlichen Arbeit unserer Fachhochschule setzen“, sagte Fritz Schmöllebeck, Rektor der FH Technikum Wien.
+
+Die diesjährigen Gewinnerinnen und Gewinner:
+
+Franz Emsenhuber, Studiengang Telekommunikation und Internettechnologien: „Entwicklung einer Fitness App für Teamsportarten als Progressive Web Applikation“
+Bernhard Steiner-Schütz, Studiengang Informationsmanagement und Computersicherheit: „Deep Neural Networl based Detection of Malicius software using Static Program Features an Image Analysis“
+Lisa Irina Kirchhofer, Studiengang Softwareentwicklung: „Infrastructure To Docker Migration“
+Maximilian Rosner, Studiengang Erneuerbare Urbane Energiesysteme: „Analyse der technologischen und wirtschaftlichen Rahmenbedingungen für eine Speicherbewirtschaftung zur Lastenspitzenreduktion in Privathaushalten und kleinen bis mittelgroßen Gewerbebetrieben“
+Daniel Schroll, Studiengang Integrative Stadtentwicklung - Smart City: „Messsystem zur Erfassung und Auswertung von Umweltdaten und Kleinklima in Smart Cities“
+Michael Maschek, Studiengang Wirtschaftsinformatik: „Eine multiperspektivische Auseinandersetzung mit Handelsplattformen des Devisenmarktes für Kundinnen und Kunden im Retailmarkt“.
